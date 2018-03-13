@@ -1,4 +1,4 @@
-# desarrollo-web
-Proyectos personales
+# Web-Development
 
-Estos proyectos son para aprender mas!
+__Personal Projects from Diego and Martin__
+
